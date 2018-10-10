@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  background: url(./assets/background.jpg);
+  font-family: 'Archivo', sans-serif;
+}
+
+button {
+  font-family: 'Archivo', sans-serif;
+}
+input {
+  width: 50%;
+}
